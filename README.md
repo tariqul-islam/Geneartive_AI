@@ -1,2 +1,2 @@
-# Geneartive_AI
+# Generative_AI
 Collection of Generative AI testcodes
